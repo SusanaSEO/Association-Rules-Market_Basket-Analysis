@@ -1,4 +1,4 @@
-# The Truth about Vinho Verde Wines
+# Association Rules - Market Basket Analysis
 
 Project carried out on July 2020 for "Data Mining" (Higher Diploma in Data Analytics at National College of Ireland)
 
